@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen Activity</string>
+    <string name="sign"><u>Sign Up</u></string>
+    <string name="signIn"><u>Sign In</u></string>
+</resources>
